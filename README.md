@@ -10,4 +10,6 @@ There are 3 different shell iterations in this repo.
   - Focus: Process Control
 * 2. Basic Shell with piping and cd
   - Focus: Piping & cd command
+* 3. Basic Shell with Signals, I/O Redirection, and Globbing
+  - Focus: Signals, I/O Redirection, & Globbing 
 

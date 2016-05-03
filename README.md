@@ -1,6 +1,6 @@
-# Basic UNIX Shells
+# Basic UNIX Utilities
 
-A collection of basic UNIX shell programs written in the C language.
+A collection of basic UNIX utilities written in the C language.
 
 ## Shell Iterations
 

@@ -13,3 +13,7 @@ There are 3 different shell iterations in this repo.
 * 3. Basic Shell with Signals, I/O Redirection, and Globbing
   - Focus: Signals, I/O Redirection, & Globbing 
 
+## Other Utilities
+
+* 4. Environment (env) Utility
+  - Focus: Process environment & memory management

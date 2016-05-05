@@ -17,3 +17,5 @@ There are 3 different shell iterations in this repo.
 
 * 4. Environment (env) Utility
   - Focus: Process environment & memory management
+* 5. Disk Usage (du) Utility
+  - Focus: File system hierarchy & File status
